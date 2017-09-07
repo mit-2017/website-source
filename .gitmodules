@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/mit-2017/mit-2017.github.io.git
