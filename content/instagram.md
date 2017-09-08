@@ -14,7 +14,7 @@ weight: 2
 
 [This](https://www.instagram.com/mit2017alumni/) is our Class of 2017 Instagram Account!
 
-[TODO insert feed]
+{{< instagram BYxMU8FBHVy >}}
 
 ### Get Involved!
 
@@ -24,3 +24,8 @@ Take over the instagram account for a week! Would you like to become instagram f
 
 {{< instagram BYtBT7UDiws >}}
 
+### Social Media
+
+Check us out at our other social media sites!
+
+{{< socialLinks >}}

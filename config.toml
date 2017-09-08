@@ -8,31 +8,26 @@ disableRSS = true
 
 [params]
   title = "Hello"
-  description = 'Please use this webpage to <i>keep in touch with your classmates!</i>
-  <br> <i>stay up to date with class news!</i>
-  <br>And please do <a href="#get-involved"> Get Involved! </a>'
+  description = 'Please use this webpage to <i>keep in touch with your classmates! </i>
+  <br> <i>stay up to date with class news! <a href="#get-involved"> Get Involved! </a> </i>
+  <br> (<a href="2017.alumclass.mit.edu/">Infinite Connection Site</a>)'
   logo = "fa-graduation-cap"
   copyright = "MIT 2017 Alumni Council"
 
 [[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
-
-[[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/MIT2017ClassCouncil/?ref=br_rs"
 
 [[params.social]]
   medium = "instagram"
   icon = "instagram"
-  link = "#"
+  link = "https://www.instagram.com/mit2017alumni/"
 
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/mit-2017"
 
 [languages]
 [languages.en]
