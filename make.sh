@@ -9,14 +9,7 @@ fi
 
 echo 'will commit ' $1
 
-# first deal with academic theme
-cd themes/dimension
-#git status
-git add .
-git commit -m "$1"
-
 # now the qandrew_website repo
-cd -
 git add .
 git commit -m "$1"
 
