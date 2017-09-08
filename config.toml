@@ -7,9 +7,10 @@ enableRobotsTXT = true
 disableRSS = true
 
 [params]
-  title = "Dimension"
-  description = 'We are the MIT Class of 2017 Alumni Council. Please use this webpage to <i>keep in touch with your classmates</i> 
-  <br>Get Involved <a href="https://docs.google.com/forms/d/e/1FAIpQLSdvwK_1YI1wudoePuuoxnJjIJiY7uNM6L4rjrQYk6JZQKJhZA/viewform?usp=sf_link">(Link)</a>'
+  title = "Hello"
+  description = 'Please use this webpage to <i>keep in touch with your classmates!</i>
+  <br> <i>stay up to date with class news!</i>
+  <br>And please do <a href="#get-involved"> Get Involved! </a>'
   logo = "fa-graduation-cap"
   copyright = "MIT 2017 Alumni Council"
 

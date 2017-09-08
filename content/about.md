@@ -1,16 +1,23 @@
 ---
-title: "About"
+title: "About us"
 
 date: 2017-09-06T22:38:37-07:00
 weight: 1
 draft: false
+# TODO: crop images, finish blurbs
 ---
 
 # About Us
 
 ### Nkawate Ebenezer, *president*
 
+![Dayanna](/images/ebenezer.jpg)
+
 ### Dayanna Espinoza, *vice president*
+
+![Dayanna](/images/dayanna.jpg)
+
+Dayanna is the Vice President of the 2017 council. She was born in Peru, but lived in NJ and Florida. She majored in 6-2 and is considering going back to MIT next year for a MEng. She currently works as a Software engineer in San Francisco, California.
 
 ### Rebecca Gallivan, *Treasurer*
 
@@ -32,4 +39,6 @@ Andrew Vineel Gallivan is a course 3 currently pursuing her PhD in Material Scie
 Vineel Gallivan is a course 3 currently pursuing her PhD in Material Science at Vineel.  Previously she has worked on biologically inspired Vineel for wet-environments and hopes to continue developing new materials that solve Vineel problems and are environmentally positive.  She is originally from the Vineel area, loves the great outdoors, and is always down to travel.  She is very excited to help keep the Class of 2017 community strong!  
 
 ### Nikhil Punwaney, *Member-at-Large @ Boston*
+
+![nikhil](/images/nikhil.jpg)
 
