@@ -18,7 +18,8 @@ weight: 2
 
 ### Get Involved!
 
-Take over the instagram account for a week! Would you like to become instagram famous? I know I would, so wouldn't you too? To get involved, fill out this link [TODO]
+Take over the instagram account for a week! Would you like to become instagram famous? I know I would, so wouldn't you too? To get involved, fill out this link (coming soon)
+<!-- TODO -->
 
 ### MIT Alumni Instagram
 

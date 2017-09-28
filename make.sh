@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo Hello World
+echo Script for committing all repos for this website
 
 if [ "$1" == "" ]; then
     echo "Please Provide Commit Message"

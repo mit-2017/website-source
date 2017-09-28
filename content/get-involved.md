@@ -15,5 +15,6 @@ The member at large's responsibilities are listed [here](https://alum.mit.edu/vo
 
 ### Host an Event!
 
-You may also request funding for events that you'd like to run, as long as the events are available to all members of the Class of 2017! Fill out a funding request here [TODO]
+You may also request funding for events that you'd like to run, as long as the events are available to all members of the Class of 2017! Fill out a funding request here (coming soon!) 
+<!-- TODO -->
 

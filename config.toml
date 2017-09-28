@@ -1,5 +1,5 @@
 baseurl = "http://example.org"
-title = "MIT Class of 2017 Alumni Council"
+title = "MIT Class of 2017"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -33,4 +33,4 @@ disableRSS = true
 [languages.en]
 languageName = "English"
 weight = 1
-title = "MIT Class of 2017 Alumni Council"
+title = "MIT Class of 2017"
