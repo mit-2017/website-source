@@ -11,13 +11,14 @@ weight: 3
 
 Here is a list of official events that the Class of 2017 Alumni Council is sponsoring!
 
+- MIT Bay Area Pub Night
+	- **Nov 18th 2017 5-8pm** @ Zeitgeist @ San Francisco, CA
+	- [Facebook Event](https://www.facebook.com/events/536230776721914/)
+	- This event is jointly hosted with the 2016 and 2015 class councils. 
 - Recent Alumni Post-Career Pub Night
-  - **Sept 29th 2017** @ Meadhall @ Cambridge, MA
-  - [Facebook Event](https://www.facebook.com/events/194211427781523)
-  - This event is jointly hosted with the 2016 and 2015 class councils. 
-- Welcome to Bay Area 
-  - **TBD** @ somewhere @ San Francisco, CA
-  - let us know if you'd like to get involed in planning!
+	- **Sept 29th 2017 6-9pm** @ Meadhall @ Cambridge, MA
+	- [Facebook Event](https://www.facebook.com/events/194211427781523)
+	- This event is jointly hosted with the 2016 and 2015 class councils. 
 
 ### Host an Event!
 
